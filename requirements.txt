@@ -21,5 +21,3 @@ seaborn==0.12.2
 six==1.4.1
 gunicorn==20.0.4
 pandas==1.5.3
-re
-ipaddress
